@@ -1,5 +1,5 @@
 {
-  "name" "p1t1tro".
+  "name" "p1t1tro",
   "compatibility_date": "2025-10-08",
   "assets": {
     "directory""./dist"
